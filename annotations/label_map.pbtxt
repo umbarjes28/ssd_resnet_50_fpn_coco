@@ -1,0 +1,45 @@
+item {
+  name: "person"
+  id: 1
+  display_name: "person"
+}
+item {
+  name: "white_helmet"
+  id: 2
+  display_name: "white_helmet"
+}
+item {
+  name: "yellow_helmet"
+  id: 3
+  display_name: "yellow_helmet"
+}
+item {
+  name: "green_helmet"
+  id: 4
+  display_name: "green_helmet"
+}
+item {
+  name: "no_helmet"
+  id: 5
+  display_name: "no_helmet"
+}
+item {
+  name: "vest"
+  id: 6
+  display_name: "vest"
+}
+item {
+  name: "no_vest"
+  id: 7
+  display_name: "no_vest"
+}
+item {
+  name: "vehicle"
+  id: 8
+  display_name: "vehicle"
+}
+item {
+  name: "ignore"
+  id: 9
+  display_name: "ignore"
+}
